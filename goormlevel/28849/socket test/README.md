@@ -1,6 +1,6 @@
 # socket test - 28849 
 
-[문제 링크](loki-channel.dev.goorm.io/exam/8493/socket-test/quiz/1) 
+[문제 링크](https://loki-channel.dev.goorm.io/exam/8493/socket-test/quiz/1) 
 
 ### 성능 요약
 
@@ -8,5 +8,5 @@
 
 ### 제출 일자
 
-2024년 05월 09일 09:42:49
+2024년 05월 09일 09:45:56
 
